@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\lista2Ex3\lista2Ex3\bin\Debug\lista2Ex3.exe.config
+C:\Users\aluno\source\repos\lista2Ex3\lista2Ex3\bin\Debug\lista2Ex3.exe
+C:\Users\aluno\source\repos\lista2Ex3\lista2Ex3\bin\Debug\lista2Ex3.pdb
+C:\Users\aluno\source\repos\lista2Ex3\lista2Ex3\obj\Debug\lista2Ex3.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\lista2Ex3\lista2Ex3\obj\Debug\lista2Ex3.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\lista2Ex3\lista2Ex3\obj\Debug\lista2Ex3.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\lista2Ex3\lista2Ex3\obj\Debug\lista2Ex3.exe
+C:\Users\aluno\source\repos\lista2Ex3\lista2Ex3\obj\Debug\lista2Ex3.pdb
